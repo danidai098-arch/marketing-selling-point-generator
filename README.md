@@ -98,6 +98,8 @@
 
 本项目采用 MIT 许可证
 
+<img width="430" height="430" alt="89fc632a0c3ac9c1f65842d8759337ed" src="https://github.com/user-attachments/assets/d6a83ba8-f984-4dbc-ab3c-f1a3cca90f23" />
+欢迎各位产品经理们随时提出改进意见并共同交流进步~
 ---
 
 
